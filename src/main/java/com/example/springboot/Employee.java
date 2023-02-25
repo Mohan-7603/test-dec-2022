@@ -10,6 +10,7 @@ public class Employee {
     private Long id;
     private String firstname;
     private String lastname;
+    private String dob;
 
     public Employee(String firstname, String lastname) {
         this.firstname = firstname;
